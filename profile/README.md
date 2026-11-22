@@ -28,6 +28,7 @@
 | [TipsExtension](https://github.com/maple-days/TipsExtension) | Darkhax Tips Mod 扩展：在暂停界面显示提示，支持呼吸灯效果 |
 | [SimuLightBlock](https://github.com/maple-days/SimuLightBlock) | Sim-U 灯箱：把 Sim-u-kraft 的灯箱带到 1.12.2，八种颜色，并带有完整合成表 |
 | [Slashblade-Chixiao](https://github.com/maple-days/Slashblade-Chixiao) | 拔刀剑附属：唐刀「赤零」「赤霄」（明日方舟终末地 陈千语） |
+| [Sleeptime](https://github.com/maple-days/Sleeptime) | 按玩家本机时钟提醒休息的小 mod，纯客户端，可配置重复提醒 |
 
 ### 开发中
 
