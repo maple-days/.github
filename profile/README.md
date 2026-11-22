@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="148" alt="MapleDays icon">
+  <img src="https://raw.githubusercontent.com/maple-days/.github/main/profile/icon.png" width="148" alt="MapleDays icon">
 </p>
 
 <h1 align="center">Maple Days</h1>
@@ -22,19 +22,18 @@
 
 ## 仓库
 
-### 已发布
-
 | 仓库 | 说明 |
 |---|---|
-| [mfnabout](https://github.com/maple-days/mfnabout) | 主菜单「关于」按钮，位置与富文本内容可配置 |
-| [simulightblock](https://github.com/maple-days/simulightblock) | Sim-U 灯箱：八色、光照 15 的彩色方块 |
+| [MFnAbout](https://github.com/maple-days/MFnAbout) | 主菜单「关于」按钮：位置可配置，内容为富文本 |
+| [TipsExtension](https://github.com/maple-days/TipsExtension) | Tips 模组的扩展：在暂停菜单显示提示语，并支持呼吸灯效果 |
+| [SimuLightBlock](https://github.com/maple-days/SimuLightBlock) | Sim-U 灯箱：把 Sim-u-kraft 的灯箱带到 1.12.2，八色、光照 15 |
+| [Slashblade-Chixiao](https://github.com/maple-days/Slashblade-Chixiao) | 拔刀剑附属：唐刀「赤零」「赤霄」（明日方舟·终末地 陈千语） |
 
 ### 开发中
 
 | 仓库 | 说明 |
 |---|---|
-| [chixiao](https://github.com/maple-days/chixiao) | 唐刀「赤零」「赤霄」拔刀剑附属 |
-| mfndailytask | 每日任务：跨日刷新、任务池可配、按难度发枫币 |
+| mfndailytask | 每日任务：跨日刷新、任务池可配、按难度发放枫币 |
 | mfncurrency | 枫币：可作为物品交易与展示 |
 | mfnbladeicons | 拔刀剑物品栏图标烘焙，解决翻列表卡顿 |
 
