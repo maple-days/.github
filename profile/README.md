@@ -16,18 +16,18 @@
 
 ## 这是什么
 
-一个以**拔刀剑**为战斗主轴、以**慢节奏生活**为底色的 1.12.2 整合包。所有内容都来自 1.12.2 原生时代，技术栈则用当前的 Cleanroom 生态重新搭建。
+这个整合包是一个以**拔刀剑**为战斗主轴、以**慢节奏生活**为底色的 1.12.2 个人向养老整合包。所有内容几乎都来自 1.12.2 原生时代，但使用了现代的技术和手法进行制作。
 
-这里存放 MFn 为它编写的各大 mod。
+这里存放 MFn 为它制作的 mod 以及其他相关内容。
 
 ## 仓库
 
 | 仓库 | 说明 |
 |---|---|
 | [MFnAbout](https://github.com/maple-days/MFnAbout) | 主菜单「关于」按钮：位置可配置，内容为富文本 |
-| [TipsExtension](https://github.com/maple-days/TipsExtension) | Tips 模组的扩展：在暂停菜单显示提示语，并支持呼吸灯效果 |
-| [SimuLightBlock](https://github.com/maple-days/SimuLightBlock) | Sim-U 灯箱：把 Sim-u-kraft 的灯箱带到 1.12.2，八色、光照 15 |
-| [Slashblade-Chixiao](https://github.com/maple-days/Slashblade-Chixiao) | 拔刀剑附属：唐刀「赤零」「赤霄」（明日方舟·终末地 陈千语） |
+| [TipsExtension](https://github.com/maple-days/TipsExtension) | Darkhax Tips Mod 扩展：在暂停界面显示提示，支持呼吸灯效果 |
+| [SimuLightBlock](https://github.com/maple-days/SimuLightBlock) | Sim-U 灯箱：把 Sim-u-kraft 的灯箱带到 1.12.2，八种颜色，并带有完整合成表 |
+| [Slashblade-Chixiao](https://github.com/maple-days/Slashblade-Chixiao) | 拔刀剑附属：唐刀「赤零」「赤霄」（明日方舟终末地 陈千语） |
 
 ### 开发中
 
@@ -42,7 +42,7 @@
 - **加载器**：Cleanroom 0.6.13
 - **构建**：RetroFuturaGradle 2.x + Gradle 9，编译目标 Java 8
 - **开发环境**：JDK 25 运行 Gradle，Java 8 工具链编译
-- **渲染**：Nothirium + chibi + RenderLib
+- **优化**：Nothirium + chibi + RenderLib
 
 ## 许可
 
