@@ -64,4 +64,6 @@
 - [ ] `./gradlew build` 通过，产物名符合 `<archive_name>-<version>.jar`
 - [ ] jar 的 `META-INF/MANIFEST.MF` 里没有指向不存在文件的属性
       （`MixinConfigs`、`FMLAT`、`FMLCorePlugin` 都要核对）
+- [ ] 覆盖 jar 前先退出会占用文件的程序：**Bandizip**（shell 扩展会一直攥着 jar）、
+      Everything、HMCL/PCL 启动器、以及游戏本体。否则 `Copy-Item` 会静默失败或报共享冲突
 - [ ] 在整合包里实测一次
