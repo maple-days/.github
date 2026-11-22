@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="profile/icon.png" width="148" alt="MapleDays icon">
+  <img src="icon.png" width="148" alt="MapleDays icon">
 </p>
 
-<h1 align="center">MapleDays</h1>
+<h1 align="center">Maple Days</h1>
 
 <p align="center">
   <i>《打脸日常》—— 一个 Minecraft 1.12.2 的养老冒险日常整合包</i>
 </p>
 
 <p align="center">
-  <code>Cleanroom</code> · <code>Forge 14.23.5</code> · <code>Java 8 目标</code> · <code>1.12.2 FOREVER</code>
+  <code>Cleanroom</code> · <code>Forge 14.23.5</code> · <code>1.12.2 FOREVER</code>
 </p>
 
 ---
 
 ## 这是什么
 
-一个以**拔刀剑**为战斗主轴、以**慢节奏生活**为底色的 1.12.2 整合包。所有内容都来自 1.12.2 原生时代，技术栈则用当前的 Cleanroom 生态重新搭起来。
+一个以**拔刀剑**为战斗主轴、以**慢节奏生活**为底色的 1.12.2 整合包。所有内容都来自 1.12.2 原生时代，技术栈则用当前的 Cleanroom 生态重新搭建。
 
-这里同时存放为它编写的各个附属 mod。
+这里存放 MFn 为它编写的各大 mod。
 
 ## 仓库
 
@@ -40,7 +40,7 @@
 
 ## 技术栈
 
-- **加载器**：Cleanroom 0.6.13（1.12.2 的 Forge 分叉，支持现代 Java）
+- **加载器**：Cleanroom 0.6.13
 - **构建**：RetroFuturaGradle 2.x + Gradle 9，编译目标 Java 8
 - **开发环境**：JDK 25 运行 Gradle，Java 8 工具链编译
 - **渲染**：Nothirium + chibi + RenderLib
