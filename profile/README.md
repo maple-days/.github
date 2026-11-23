@@ -29,6 +29,7 @@
 | [SimuLightBlock](https://github.com/maple-days/SimuLightBlock) | Sim-U 灯箱：把 Sim-u-kraft 的灯箱带到 1.12.2，八种颜色，并带有完整合成表 |
 | [Slashblade-Chixiao](https://github.com/maple-days/Slashblade-Chixiao) | 拔刀剑附属：唐刀「赤零」「赤霄」（明日方舟终末地 陈千语） |
 | [Sleeptime](https://github.com/maple-days/Sleeptime) | 按玩家本机时钟提醒休息的小 mod，纯客户端，可配置重复提醒 |
+| [BladeIcons](https://github.com/maple-days/BladeIcons) | 把拔刀剑烘成 128×128 图标贴在物品界面，翻列表不再卡顿 |
 
 ### 开发中
 
