@@ -30,6 +30,7 @@
 | [Slashblade-Chixiao](https://github.com/maple-days/Slashblade-Chixiao) | 拔刀剑附属：唐刀「赤零」「赤霄」（明日方舟终末地 陈千语） |
 | [Sleeptime](https://github.com/maple-days/Sleeptime) | 按玩家本机时钟提醒休息的小 mod，纯客户端，可配置重复提醒 |
 | [BladeIcons](https://github.com/maple-days/BladeIcons) | 把拔刀剑烘成 128×128 图标贴在物品界面，翻列表不再卡顿 |
+| [MaplePanel](https://github.com/maple-days/MaplePanel) | 整合包本地管理面板：Mod 列表、配置编辑、Tips 查重、待办看板 |
 
 ### 开发中
 
